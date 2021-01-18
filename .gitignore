@@ -1,17 +1,20 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+cfxdata/resources/\[EUP\]
+cfxdata/resources/\[Map\]
+cfxdata/resources/\[Vehicles\]
+cfxdata/cache
+police_pack
+pd_pack
+code3megapackbb
 
 # Other files and folders
-.settings/
+#.settings/
 
 # Executables
-*.swf
-*.air
-*.ipa
-*.apk
+#*.swf
+#*.air
+#*.ipa
+#*.apk
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
