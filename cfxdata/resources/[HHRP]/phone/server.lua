@@ -508,4 +508,3 @@ RegisterCommand("payphone", function(source, args, raw)
     end
 end, false)
 
---started
