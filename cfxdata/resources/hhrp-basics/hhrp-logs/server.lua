@@ -292,12 +292,12 @@
 -- end)
 --------------------------------------
 
-local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/756769600162758707/yyPw-XbKop3Aj5zHy21YInS0nuaWF4koQqRwwtARY__Duu3cvMfo4YT9kRCFBMBEi7J9"
+local DISCORD_WEBHOOK = "https://discord.com/api/webhooks/800989183929483277/1nPJnSS0bhluXh84xaqPjlqCWNk67gTrU0IxUc8zODlFBVeG70Dw4IiCCJ9QccJHrEzN"
 local DISCORD_NAME = "hhrp-Logs"
-local DISCORD_WEBHOOK2 = "https://discord.com/api/webhooks/756769600162758707/yyPw-XbKop3Aj5zHy21YInS0nuaWF4koQqRwwtARY__Duu3cvMfo4YT9kRCFBMBEi7J9"
+local DISCORD_WEBHOOK2 = "https://discord.com/api/webhooks/800989183929483277/1nPJnSS0bhluXh84xaqPjlqCWNk67gTrU0IxUc8zODlFBVeG70Dw4IiCCJ9QccJHrEzN"
 local DISCORD_NAME2 = "hhrp Logs"
-local STEAM_KEY = "9FC5405FEBC21BBA433351E1B7490859"
-local DISCORD_IMAGE = "https://i.imgur.com/zviw6oW.png" -- default is FiveM logo
+local STEAM_KEY = "879616E21745B287EC66C67F1827D2D9"
+local DISCORD_IMAGE = "https://imgur.com/gallery/k4Ps4" -- default is FiveM logo
 
 --DON'T EDIT BELOW THIS
 
